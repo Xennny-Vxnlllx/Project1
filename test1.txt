@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     int a, b;
-    cin >> a >> b;
-    cout << a + b;
+    cin >> a >> b; // ввод чисел
+    cout << a + b; // вывод числа (суммы)
     return 0;
 }
